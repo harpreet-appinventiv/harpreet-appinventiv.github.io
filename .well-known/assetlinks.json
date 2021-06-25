@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.apparel.app6thstreet",
+    "sha256_cert_fingerprints":
+    ["1F:79:F4:98:52:C7:2C:F4:19:89:53:09:38:10:FF:B6:35:41:9E:B6:BD:0A:E8:E8:06:BA:D1:77:A1:D1:4C:92","74:4C:28:A7:C5:59:7F:F7:9B:DD:FE:0C:CB:7F:33:FB:49:6F:37:B9:A7:C4:90:D6:E4:DA:18:11:3E:B1:CD:70"] 
+  }
+}]
